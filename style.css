@@ -47,6 +47,8 @@ nav ul li a{
 nav ul li a:hover{
     border-bottom: solid 2px #270082 ;
     padding-bottom: 3px;
+    font-size: large;
+        font-weight: bold;
 }
 .intro-section{
     background: url('Images/hero_image.png');
@@ -75,7 +77,7 @@ nav ul li a:hover{
     font-size: 15px;
 }
 .card{
-    
+
 }
 .ad h2{
     padding: 30px 10px;
