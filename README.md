@@ -26,11 +26,11 @@ Ready to start your myTunes journey? [Start Your Trial Now](#)
 
 Here are some snapshots of myTunes in action:
 
-- ![Music](/Images/Screenshots/ss2.png) _Explore our vast music library with millions of songs.
+- _Explore our vast music library with millions of songs._ ![Music](/Images/Screenshots/ss2.png)
 
-- ![Movies](/Images/Screenshots/ss3.png) _Discover a wide selection of movies and TV shows._
+- _Discover a wide selection of movies and TV shows._ ![Movies](/Images/Screenshots/ss3.png)
 
-- ![Gift Cards](/Images/gift_card.png) _Choose from our range of gift card options._
+- _Choose from our range of gift card options._ ![Gift Cards](/Images/gift_card.png)
 
 ## Guidelines for Contributions
 
