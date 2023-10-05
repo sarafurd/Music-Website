@@ -1,6 +1,7 @@
-  # myTunes Music Site
+# myTunes Music Site
 
 ## Overview
+
 - Music
 - Video
 - Gift Card
@@ -25,9 +26,9 @@ Ready to start your myTunes journey? [Start Your Trial Now](#)
 
 Here are some snapshots of myTunes in action:
 
-- ![Music](images/Screenshots/ss1.png) *Explore our vast music library with millions of songs.*
-- ![Movies](images/Screenshots/ss3.png) *Discover a wide selection of movies and TV shows.*
-- ![Gift Cards](images/gift_card.png) *Choose from our range of gift card options.*
+- ![Music](/Images/Screenshots/ss2.png) _Explore our vast music library with millions of songs._
+- ![Movies](/Images/Screenshots/ss3.png) _Discover a wide selection of movies and TV shows._
+- ![Gift Cards](/Images/gift_card.png) _Choose from our range of gift card options._
 
 ## Guidelines for Contributions
 
@@ -37,7 +38,6 @@ We welcome contributions to myTunes to make it even better for our users. If you
 
 2. **Clone the Repository:** Clone the forked repository to your local machine.
 
-
 3. **Make Changes:** Make your desired changes, improvements, or bug fixes in your local copy of the repository.
 
 4. **Create a Pull Request:** When you're ready to contribute, create a pull request from your forked repository to the main myTunes repository.
@@ -45,4 +45,3 @@ We welcome contributions to myTunes to make it even better for our users. If you
 5. **Review and Feedback:** Our team will review your contributions, provide feedback, and work with you to merge your changes into the main project.
 
 Please ensure your contributions align with our vision and maintain the quality and integrity of the myTunes platform.
-
