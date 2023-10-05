@@ -27,6 +27,12 @@ nav{
     font-weight: 400;
     font-size: 30px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 100px;
 }
 nav ul{
     display: flex;
@@ -72,6 +78,9 @@ nav ul li a:hover{
     margin: 30px;
     font-size: 25px;
     font-weight: 400;
+}
+.intro-section img{
+    width: 300px;
 }
 .text p{
     font-size: 15px;
